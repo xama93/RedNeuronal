@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.explorer">
+    <module_version install_time="1378854515594" last="true" origin="installer" specification_version="1.0">
+        <file crc="2002690574" name="config/Modules/org-neuroph-netbeans-explorer.xml"/>
+        <file crc="1319872351" name="modules/org-neuroph-netbeans-explorer.jar"/>
+    </module_version>
+</module>

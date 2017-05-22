@@ -1,0 +1,3 @@
+http://g.sweyla.com/blog/2012/mnist-numpy/
+http://www.javased.com/?source_dir=encog-java-examples/src/main/java/org/encog/examples/neural/xor/XORHelloWorld.java
+https://github.com/encog/encog-java-core/blob/master/src/test/java/org/encog/neural/networks/XOR.java

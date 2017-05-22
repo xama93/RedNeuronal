@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.project">
+    <module_version install_time="1378854514064" last="true" origin="installer" specification_version="1.0">
+        <file crc="1344170955" name="config/Modules/org-neuroph-netbeans-project.xml"/>
+        <file crc="2438963784" name="modules/org-neuroph-netbeans-project.jar"/>
+    </module_version>
+</module>

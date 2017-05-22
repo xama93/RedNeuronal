@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.properties">
+    <module_version install_time="1378854514678" last="true" origin="installer" specification_version="1.0">
+        <file crc="156998928" name="config/Modules/org-neuroph-netbeans-properties.xml"/>
+        <file crc="705945867" name="modules/org-neuroph-netbeans-properties.jar"/>
+    </module_version>
+</module>

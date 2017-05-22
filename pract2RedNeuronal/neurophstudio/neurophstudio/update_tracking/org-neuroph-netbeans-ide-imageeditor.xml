@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.ide.imageeditor">
+    <module_version install_time="1378854513499" last="true" origin="installer" specification_version="1.0">
+        <file crc="2401041508" name="config/Modules/org-neuroph-netbeans-ide-imageeditor.xml"/>
+        <file crc="415510972" name="modules/org-neuroph-netbeans-ide-imageeditor.jar"/>
+    </module_version>
+</module>

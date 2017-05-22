@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.studio.updates">
+    <module_version install_time="1378854515824" last="true" origin="installer" specification_version="1.0">
+        <file crc="3033708131" name="config/Modules/org-neuroph-studio-updates.xml"/>
+        <file crc="779093925" name="modules/org-neuroph-studio-updates.jar"/>
+    </module_version>
+</module>

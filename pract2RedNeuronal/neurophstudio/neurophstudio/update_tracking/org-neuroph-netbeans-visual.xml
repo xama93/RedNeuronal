@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.visual">
+    <module_version install_time="1378854515247" last="true" origin="installer" specification_version="1.0">
+        <file crc="1892624028" name="config/Modules/org-neuroph-netbeans-visual.xml"/>
+        <file crc="1305970988" name="modules/ext/neuroph-2.6.jar"/>
+        <file crc="2424440110" name="modules/org-neuroph-netbeans-visual.jar"/>
+    </module_version>
+</module>

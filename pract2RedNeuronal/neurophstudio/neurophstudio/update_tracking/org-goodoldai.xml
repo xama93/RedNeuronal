@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.goodoldai">
+    <module_version install_time="1378854512402" last="true" origin="installer" specification_version="1.0">
+        <file crc="2233435770" name="config/Modules/org-goodoldai.xml"/>
+        <file crc="3910964527" name="modules/ext/GoaiFramework.jar"/>
+        <file crc="4031269429" name="modules/ext/ajt-2.9.jar"/>
+        <file crc="3618374091" name="modules/ext/javaml-0.1.7.jar"/>
+        <file crc="901730610" name="modules/ext/rapidminer.jar"/>
+        <file crc="2896902830" name="modules/ext/rm_doc.jar"/>
+        <file crc="3669810074" name="modules/ext/weka.jar"/>
+        <file crc="4279025550" name="modules/org-goodoldai.jar"/>
+    </module_version>
+</module>

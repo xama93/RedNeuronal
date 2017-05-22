@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ant.kit">
+    <module_version install_time="1370465464474" last="true" origin="installer" specification_version="1.19.1">
+        <file crc="1165362769" name="config/Modules/org-netbeans-modules-ant-kit.xml"/>
+        <file crc="2745880565" name="modules/locale/org-netbeans-modules-ant-kit_ja.jar"/>
+        <file crc="2299731354" name="modules/locale/org-netbeans-modules-ant-kit_pt_BR.jar"/>
+        <file crc="1393745473" name="modules/locale/org-netbeans-modules-ant-kit_ru.jar"/>
+        <file crc="2386004174" name="modules/locale/org-netbeans-modules-ant-kit_zh_CN.jar"/>
+        <file crc="2095140862" name="modules/org-netbeans-modules-ant-kit.jar"/>
+    </module_version>
+</module>

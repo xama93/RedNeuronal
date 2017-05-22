@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.wizards">
+    <module_version install_time="1378854518160" last="true" origin="installer" specification_version="1.0">
+        <file crc="2757528289" name="config/Modules/org-neuroph-netbeans-wizards.xml"/>
+        <file crc="4183004648" name="modules/org-neuroph-netbeans-wizards.jar"/>
+    </module_version>
+</module>

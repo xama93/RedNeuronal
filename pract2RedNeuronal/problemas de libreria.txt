@@ -1,0 +1,9 @@
+click derecho en el proyecto y propiedades
+
+libreries
+
+las quitamos todas con remove
+
+las volvemos a añadir con add JAR/Folder
+
+las buscamos en el proyecto que tenemos abierto en el escritorio en la parte de lib

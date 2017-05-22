@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.imr.utils">
+    <module_version install_time="1378854513770" last="true" origin="installer" specification_version="1.0">
+        <file crc="712092706" name="config/Modules/org-neuroph-netbeans-imr-utils.xml"/>
+        <file crc="969524687" name="modules/org-neuroph-netbeans-imr-utils.jar"/>
+    </module_version>
+</module>

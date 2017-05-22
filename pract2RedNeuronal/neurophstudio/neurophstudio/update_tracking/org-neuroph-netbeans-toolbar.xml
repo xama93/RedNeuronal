@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.toolbar">
+    <module_version install_time="1378854520598" last="true" origin="installer" specification_version="1.0">
+        <file crc="40360107" name="config/Modules/org-neuroph-netbeans-toolbar.xml"/>
+        <file crc="2721554520" name="modules/org-neuroph-netbeans-toolbar.jar"/>
+    </module_version>
+</module>

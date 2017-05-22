@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nugs.graph3d.api">
+    <module_version install_time="1378854521091" last="true" origin="installer" specification_version="1.0">
+        <file crc="1704723336" name="config/Modules/org-nugs-graph3d-api.xml"/>
+        <file crc="2717014091" name="modules/org-nugs-graph3d-api.jar"/>
+    </module_version>
+</module>

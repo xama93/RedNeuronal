@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.navigator">
+    <module_version install_time="1370465405948" last="true" origin="installer" specification_version="1.3.1">
+        <file crc="1936636399" name="config/Modules/org-netbeans-modules-html-navigator.xml"/>
+        <file crc="28670053" name="modules/locale/org-netbeans-modules-html-navigator_ja.jar"/>
+        <file crc="3044721168" name="modules/locale/org-netbeans-modules-html-navigator_pt_BR.jar"/>
+        <file crc="3382078433" name="modules/locale/org-netbeans-modules-html-navigator_ru.jar"/>
+        <file crc="1000019364" name="modules/locale/org-netbeans-modules-html-navigator_zh_CN.jar"/>
+        <file crc="3641055627" name="modules/org-netbeans-modules-html-navigator.jar"/>
+    </module_version>
+</module>

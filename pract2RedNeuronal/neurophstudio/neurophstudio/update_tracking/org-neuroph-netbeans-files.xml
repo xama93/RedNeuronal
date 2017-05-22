@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.files">
+    <module_version install_time="1378854517599" last="true" origin="installer" specification_version="1.0">
+        <file crc="3182869288" name="config/Modules/org-neuroph-netbeans-files.xml"/>
+        <file crc="1178030802" name="modules/ext/jung-algorithms-2.0.jar"/>
+        <file crc="2428681288" name="modules/ext/jung-api-2.0.jar"/>
+        <file crc="4127728957" name="modules/ext/jung-graph-impl-2.0.jar"/>
+        <file crc="1328903660" name="modules/ext/jung-visualization-2.0.jar"/>
+        <file crc="1452491064" name="modules/ext/neuroph.jar"/>
+        <file crc="3657760222" name="modules/org-neuroph-netbeans-files.jar"/>
+    </module_version>
+</module>

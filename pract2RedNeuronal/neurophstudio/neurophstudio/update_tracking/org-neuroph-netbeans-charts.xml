@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.charts">
+    <module_version install_time="1378854521739" last="true" origin="installer" specification_version="1.0">
+        <file crc="264328030" name="config/Modules/org-neuroph-netbeans-charts.xml"/>
+        <file crc="537600627" name="modules/org-neuroph-netbeans-charts.jar"/>
+    </module_version>
+</module>

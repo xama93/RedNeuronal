@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans">
+    <module_version install_time="1378854511737" last="true" origin="installer" specification_version="1.0">
+        <file crc="523378399" name="config/Modules/org-neuroph-netbeans.xml"/>
+        <file crc="2181310714" name="modules/ext/android.jar"/>
+        <file crc="1750150262" name="modules/ext/mysql-connector-java-5.1.17-bin.jar"/>
+        <file crc="586451924" name="modules/ext/neuroph-contrib-2.8.jar"/>
+        <file crc="2681898706" name="modules/ext/neuroph-core-2.8.jar"/>
+        <file crc="649771623" name="modules/ext/neuroph-imgrec-2.8.jar"/>
+        <file crc="3666683662" name="modules/ext/neuroph-ocr-2.8.jar"/>
+        <file crc="1165012068" name="modules/ext/neuroph-samples-2.8.jar"/>
+        <file crc="4208255409" name="modules/org-neuroph-netbeans.jar"/>
+    </module_version>
+</module>

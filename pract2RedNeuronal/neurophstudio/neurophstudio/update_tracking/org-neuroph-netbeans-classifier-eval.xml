@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.neuroph.netbeans.classifier.eval">
+    <module_version install_time="1378854520881" last="true" origin="installer" specification_version="1.0">
+        <file crc="4259188353" name="config/Modules/org-neuroph-netbeans-classifier-eval.xml"/>
+        <file crc="2019192142" name="modules/org-neuroph-netbeans-classifier-eval.jar"/>
+    </module_version>
+</module>

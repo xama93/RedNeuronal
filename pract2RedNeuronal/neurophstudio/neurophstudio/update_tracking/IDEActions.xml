@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="IDEActions">
+    <module_version install_time="1378854522198" last="true" origin="installer" specification_version="1.0">
+        <file crc="2752273927" name="config/Modules/IDEActions.xml"/>
+        <file crc="687386898" name="modules/IDEActions.jar"/>
+    </module_version>
+</module>

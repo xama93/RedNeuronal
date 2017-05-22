@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.browser.webview/1">
+    <module_version install_time="1370465370450" last="true" origin="installer" specification_version="1.2.3.1.1">
+        <file crc="2289171310" name="config/Modules/org-netbeans-core-browser-webview.xml"/>
+        <file crc="3895560243" name="modules/ext/core.browser.webview-ext.jar"/>
+        <file crc="988583977" name="modules/ext/locale/core.browser.webview-ext_ja.jar"/>
+        <file crc="171118913" name="modules/ext/locale/core.browser.webview-ext_pt_BR.jar"/>
+        <file crc="2929033009" name="modules/ext/locale/core.browser.webview-ext_ru.jar"/>
+        <file crc="2126122247" name="modules/ext/locale/core.browser.webview-ext_zh_CN.jar"/>
+        <file crc="1117867271" name="modules/locale/org-netbeans-core-browser-webview_ja.jar"/>
+        <file crc="2648704913" name="modules/locale/org-netbeans-core-browser-webview_pt_BR.jar"/>
+        <file crc="3185844825" name="modules/locale/org-netbeans-core-browser-webview_ru.jar"/>
+        <file crc="3910408864" name="modules/locale/org-netbeans-core-browser-webview_zh_CN.jar"/>
+        <file crc="1787886572" name="modules/org-netbeans-core-browser-webview.jar"/>
+    </module_version>
+</module>
